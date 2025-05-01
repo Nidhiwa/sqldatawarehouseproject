@@ -1,5 +1,8 @@
 # Welcome to the Data Warehouse and Analytics Project Repository!🚀 #
 
+![image](https://github.com/user-attachments/assets/cd2c025e-2d61-4cd6-9d77-a0222fa9c95e)
+
+
 This project showcases a complete end-to-end data warehousing and analytics solution — from building a robust data warehouse to delivering meaningful insights.
 
 ## Building the Data Warehouse (Data Engineering) ##
