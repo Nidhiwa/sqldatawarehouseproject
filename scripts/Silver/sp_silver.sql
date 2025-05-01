@@ -1,4 +1,10 @@
 
+
+Stored Procedure: Bronze -> Silver
+		- Truncates Silver tables.
+		- Inserts transformed and cleansed data from Bronze into Silver tables.
+===============================================================================
+	
 CREATE OR ALTER PROCEDURE silver.load_silver AS
 BEGIN
 ---find the duplicate primaty key
