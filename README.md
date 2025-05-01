@@ -75,6 +75,28 @@ This project includes:
 
 **Analytics & Reporting:** Developing SQL-based reports and dashboards to deliver actionable insights.
 
+## Data LINEAGE (Data Flow) ##
+
+![image](https://github.com/user-attachments/assets/9f3e5d89-b46c-4e9d-a480-7206e9455c2f)
+
+## Data Modeling (Star Schema) ##
+# STAR SCHEMA #
+
+Star Schema is a multi-dimensional data model for organizing data in a way that makes data analytical tasks easier and helps non technical people easy to understand and get insights from the data.
+
+![image](https://github.com/user-attachments/assets/651f7d7b-7e02-4fdc-a133-0f417a4fc0d7)
+
+
+**Dimension Table**
+
+dim_customers
+
+dim_products
+
+**Facts Table**
+
+fact_sales
+
 
 ## About Me 👩‍💻 ##
 
